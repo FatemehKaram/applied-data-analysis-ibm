@@ -12,6 +12,12 @@ This repository contains a consolidated, end-to-end data analytics project devel
 - 📘 Consolidated Python notebook: `Applied_Data_Analysis_and_Visualization_IBM_*.ipynb`
 - 📊 IBM Cognos Analytics dashboard (PDF export)
 
+## IBM Cognos Analytics Project
+
+- 📊 **Technology Trends Dashboard**  
+  Built a multi-tab dashboard analyzing current technology usage, future trends, and demographics using IBM Cognos Analytics.  
+  👉 See project details in [`cognos-dashboard/`](cognos-dashboard/)
+
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
