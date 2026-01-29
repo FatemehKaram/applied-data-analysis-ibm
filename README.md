@@ -8,6 +8,10 @@ This repository contains a consolidated, end-to-end data analytics project devel
 - Exploratory and statistical analysis (distribution, outliers, correlation)
 - Data visualization and reporting
 
+## Project Artifacts
+- 📘 Consolidated Python notebook: `Applied_Data_Analysis_and_Visualization_IBM_*.ipynb`
+- 📊 IBM Cognos Analytics dashboard (PDF export)
+
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib)
 - SQL
