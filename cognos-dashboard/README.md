@@ -17,3 +17,7 @@ The dashboard includes three tabs:
 ## Tools Used
 - IBM Cognos Analytics
 - CSV-based survey dataset
+
+## Dataset
+The dashboard was created using a large survey dataset provided as part of the IBM Data Analyst Professional Certificate.  
+Due to file size constraints, the raw dataset is not included in this repository.
